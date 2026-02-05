@@ -99,12 +99,5 @@ Connect to the **Lovable** project or run the React dev server.
 
 ---
 
-## 🤝 Acknowledgments
 
-* Data provided by Michaël Aklin, S.P. Harish, and Johannes Urpelainen (ISEP).
-* Built as a Capstone Project to demonstrate the intersection of **Deep Learning** and **Sustainability**.
-
----
-
-**Would you like me to help you write the specific "About the Author" or "Conclusion" section to finalize your GitHub profile?**
  
